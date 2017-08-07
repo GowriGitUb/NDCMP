@@ -1,0 +1,64 @@
+BODY {
+	BACKGROUND-COLOR: #000000; color: lightyellow; scrollbar-arrow-color: #FFFFFF; scrollbar-base-color: #000000; FONT-FAMILY: Tahoma, Arial, Verdana; FONT-SIZE: 8.5pt;
+}
+Table{
+	FONT-FAMILY: Tahoma, Arial, Verdana; FONT-SIZE: 8.5pt;
+	COLOR : #F86263;
+}
+
+/*table.stat th, table.stat td {
+  font-size : 77%;
+  font-family : "Myriad Web",Verdana,Helvetica,Arial,sans-serif;
+  background : #efe none; color : #630; }
+  */
+A{font-size: 11px; color: lightyellow; text-decoration: none}
+A:Hover{font-size: 11px; color: lightyellow; text-decoration: underline}
+
+.toplink { font-size: 10px; color: #808080; text-decoration: none}
+.toplink:hover {font-size: 10px; color: #FF0000; text-decoration: none}
+
+.kirilink {font-size: 10px; color: #FB8991; text-decoration: none}
+.kirilink:hover {font-size: 10px; color: #F86263; text-decoration: none}
+
+
+.kananlink {font-size: 10px; color: #FB8991; text-decoration: none}
+.kananlink:hover {font-size: 11px; color: #F86263; text-decoration: none}
+
+.tabellink1 {font-size: 10px; color: #F86263; text-decoration: none}
+.tabellink1:hover {font-size: 11px; color: #808080; text-decoration: none}
+
+.pagination { font-size: 13px; color: #808080; text-decoration: none}
+.pagination:hover {font-size: 13px; color: #FF0000; text-decoration: none}
+
+.tabellink2 { font-size: 10px; color: #FF0000; text-decoration: none}
+.tabellink2:hover {font-size: 10px; color: #808080; text-decoration: none}
+
+.dot {
+	FONT-WEIGHT: bold; COLOR: #ffffff
+}
+INPUT.kotakteks {
+	BACKGROUND-COLOR: #3D3D3D; BORDER-BOTTOM: #707070 1px solid; BORDER-LEFT: #707070 1px solid; BORDER-RIGHT: #707070 1px solid; BORDER-TOP: #707070 1px solid; COLOR: #FFFFFF;
+	FONT-FAMILY: verdana, helvetica, sans-serif; FONT-SIZE: 11px; HEIGHT: 20px; VERTICAL-ALIGN: middle
+}
+INPUT.kotakteksdisabled {
+	BACKGROUND-COLOR: #000000; BORDER-BOTTOM: #707070 1px solid; BORDER-LEFT: #707070 1px solid; BORDER-RIGHT: #707070 1px solid; BORDER-TOP: #707070 1px solid; COLOR: #FFFFFF;
+	FONT-FAMILY: verdana, helvetica, sans-serif; FONT-SIZE: 11px; HEIGHT: 20px; VERTICAL-ALIGN: middle
+}
+
+INPUT.kotaktombol {
+	BACKGROUND-COLOR: #000000; COLOR: #B0B0B0; BORDER-RIGHT: #707070 1px solid; BORDER-TOP: #707070 1px solid; BORDER-LEFT: #707070 1px solid; BORDER-BOTTOM: #707070 1px solid; BACKGROUND-COLOR: #000000;
+	FONT-SIZE: 8pt; VERTICAL-ALIGN: middle; FONT-FAMILY: verdana, helvetica, sans-serif
+}
+.garislrtb {
+	BORDER-LEFT: #524E4D 2px solid; BORDER-BOTTOM: #524E4D 2px solid; BORDER-RIGHT: #524E4D 2px solid; BORDER-TOP: #524E4D 2px solid;
+}
+.garislrb {
+	BORDER-LEFT: #524E4D 2px solid; BORDER-BOTTOM: #524E4D 2px solid; BORDER-RIGHT: #524E4D 2px solid;
+}
+.garislrt {
+	BORDER-LEFT: #524E4D 2px solid; BORDER-RIGHT: #524E4D 2px solid; BORDER-TOP: #524E4D 2px solid;
+}
+SELECT.selectformat {
+	BACKGROUND-COLOR: #3D3D3D; BORDER-BOTTOM: #707070 1px solid; BORDER-LEFT: #707070 1px solid; BORDER-RIGHT: #707070 1px solid; BORDER-TOP: #707070 1px solid; COLOR: #FFFFFF;
+	FONT-FAMILY: verdana, helvetica, sans-serif; FONT-SIZE: 11px; HEIGHT: 20px; VERTICAL-ALIGN: middle
+}
